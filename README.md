@@ -3,4 +3,4 @@
 ## Fun fact is i don't know about your initial state but here i have written a code that outputs a winning dfa with probability of 99.98 against your dfa !!
 Wanna know how , see the code :P.
 ---
-###Write your own code now and use my fsm.txt to test against have happy losing?
+### Write your own code now and use my fsm.txt to test against have happy losing?
